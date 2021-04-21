@@ -3,10 +3,10 @@
 
 # <img src="ivan.png" alt="Header image" style="display: block; margin: 0 auto;" />
 ```console
-     Looking for: Front-End Developer roles
-     Main Stack: React & Redux, Sass
+     Looking for: Full-Stack Developer roles
+     Stack: React & Redux, ASP.NET, Ruby on Rails
      Previous experience: Full-stack Developer with ASP.NET framework (MVC, REST API)
-     Languages: Javascript, HTML, CSS, C#
+     Languages: Javascript, C#, Ruby, HTML, CSS, SASS
      Fun facts: Calisthenics practitioner
 ```
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
