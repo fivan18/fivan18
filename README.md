@@ -7,6 +7,7 @@
      Stack: React & Redux, ASP.NET, Ruby on Rails
      Previous experience: Full-stack Developer with ASP.NET framework (MVC, REST API)
      Languages: Javascript, C#, Ruby, HTML, CSS, SASS
+     Databases: SQL Server, MySql, PostgreSQL
      Fun facts: Calisthenics practitioner
 ```
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
