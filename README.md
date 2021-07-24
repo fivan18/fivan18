@@ -1,6 +1,6 @@
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blue)](https://fivan18.github.io/portfolio/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fivan/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fivanunam)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge)](https://fivan18.github.io/portfolio/)
 
 # <img src="ivan.png" alt="Header image" style="display: block; margin: 0 auto;" />
 ```console
